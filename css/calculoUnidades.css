@@ -1,0 +1,44 @@
+body {
+    background-color: pink;
+    margin: 30px 10px;
+    font-family: Arial;
+    color: black;
+   }
+   caption {
+    text-decoration :underline;
+    font-family: "Arial Rounded MT Bold";
+    font-weight: 900;
+    font-size: 12pt;
+    color: lavender;
+   }
+
+   .resultado {
+    margin: 100px automático;
+    margin:-100px;
+    width: 600px;
+    border: negro;
+    color:black;
+    text-align: center;
+   }
+
+   .oper {
+    margin: 170px automático;
+    width: 600px;
+    border: negro;
+    color : rgb (71, 250, 146);
+   }
+
+.Botones {
+    margin: 1%;
+    position: relative;
+    list-style: none;
+    margin-left: 45%;
+    border:yellow;
+    color: black;
+    font-size: 15px;
+    text-align: center;
+    background-color: rgb(46, 134, 193);
+    width: 200px;
+    padding: 0.5%;
+
+}
